@@ -1,5 +1,5 @@
 # weather-app-nuxt
-
+Same project as https://github.com/jielongjp/weather-app but migrated to server-side rendering with Nuxt.
 ## Build Setup
 
 ```bash
